@@ -2,6 +2,8 @@
 Code for Himawari-8/9 Atmospheric corretction based on 6SV LUT
 
 
+**_Comment in detail writen in main.py and SR_FD_1km.ipynb_**
+
 ## Data required
 ### **_1.CAMSRA EAC4 (Atmospheric and Aerosol data)_**
     Detail see https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-global-reanalysis-eac4?tab=overview
@@ -40,4 +42,5 @@ Code for Himawari-8/9 Atmospheric corretction based on 6SV LUT
     
 # References:
     Li W, K. Ichii, B. Zhang, Y. Yamamoto, W. Yang, T. Miura, H. Yoshioka, M. Matsuoka, K. Obata, R.C. Sharma, H. Yamamoto, H. Irie, P. Khatri, B. Liley, I. Morino, H. Takenaka, A. Higuchi (in revision) Estimating land surface reflectance from a next-generation geostationary meteorological satellite, Himawari 8/9 AHI. Journal of Meteorological Society of Japan.
+    
 ​    Zhang B., K. Ichii, W. Li, Y. Yamamoto, W. Yang, R.C. Sharma, H. Yoshioka, K. Obata, M. Matsuoka, T. Miura (in revision) Evaluation of Himawari-8 AHI land surface reflectance at mid-latitudes using LEO sensors with off-nadir observation. Remote Sensing of Environment.
