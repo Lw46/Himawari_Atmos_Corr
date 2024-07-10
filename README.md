@@ -4,7 +4,7 @@ Code for Himawari-8/9 Atmospheric corretction based on 6SV LUT
 
 ## Data required
 ### **_1.CAMSRA EAC4 (Atmospheric and Aerosol data)_**
-    Detail see _https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-global-reanalysis-eac4?tab=overview_
+    Detail see https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-global-reanalysis-eac4?tab=overview
     
 ### **_2.Angular data_**
     Including Solar zenith,Solar azimuth,View zenith and View azimuth angle. 
