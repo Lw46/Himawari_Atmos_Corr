@@ -1,9 +1,11 @@
 # 6SV LUT based GEO sensor atmospheric correction
 Code for Himawari-8/9 Atmospheric corretction based on 6SV LUT
+# Himawari-8/AHI Land Surface Reflectance
+Version 0  Year 2018-2019: ​ftp://modis.cr.chiba-u.ac.jp/ichii/SEND_NEW/H8AHI_SR/
+Condition:
+This is a preliminary dataset and will be updated based on the process of revision of below two papers. At this stage, please contact to Kazuhito Ichii (ichii@chiba-u.jp) for more information (e.g. format etc.).
 
-
-**_Comment in detail writen in main.py and SR_FD_1km.ipynb_**
-
+## **_Comment in detail writen in main.py and SR_FD_1km.ipynb_**
 ## Data required
 ### **_1.CAMSRA EAC4 (Atmospheric and Aerosol data)_**
     Detail see https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-global-reanalysis-eac4?tab=overview
@@ -41,6 +43,6 @@ Code for Himawari-8/9 Atmospheric corretction based on 6SV LUT
     Different band need to set with correspond parameters.
     
 # References:
-    Li W, K. Ichii, B. Zhang, Y. Yamamoto, W. Yang, T. Miura, H. Yoshioka, M. Matsuoka, K. Obata, R.C. Sharma, H. Yamamoto, H. Irie, P. Khatri, B. Liley, I. Morino, H. Takenaka, A. Higuchi (in revision) Estimating land surface reflectance from a next-generation geostationary meteorological satellite, Himawari 8/9 AHI. Journal of Meteorological Society of Japan.
-    
-​    Zhang B., K. Ichii, W. Li, Y. Yamamoto, W. Yang, R.C. Sharma, H. Yoshioka, K. Obata, M. Matsuoka, T. Miura (in revision) Evaluation of Himawari-8 AHI land surface reflectance at mid-latitudes using LEO sensors with off-nadir observation. Remote Sensing of Environment.
+_Li W, K. Ichii, B. Zhang, Y. Yamamoto, W. Yang, T. Miura, H. Yoshioka, M. Matsuoka, K. Obata, R.C. Sharma, H. Yamamoto, H. Irie, P. Khatri, B. Liley, I. Morino, H. Takenaka, A. Higuchi (in revision) Estimating land surface reflectance from a next-generation geostationary meteorological satellite, Himawari 8/9 AHI. Journal of Meteorological Society of Japan._
+
+_Zhang B., K. Ichii, W. Li, Y. Yamamoto, W. Yang, R.C. Sharma, H. Yoshioka, K. Obata, M. Matsuoka, T. Miura (in revision) Evaluation of Himawari-8 AHI land surface reflectance at mid-latitudes using LEO sensors with off-nadir observation. Remote Sensing of Environment._
