@@ -1,9 +1,12 @@
 # 6SV LUT based GEO sensor atmospheric correction
 Code for Himawari-8/9 Atmospheric corretction based on 6SV LUT
 # Himawari-8/AHI Land Surface Reflectance
-Version 0  Year 2018-2019: ​ftp://modis.cr.chiba-u.ac.jp/ichii/SEND_NEW/H8AHI_SR/
+Version 0  Year 2018-2019:
+ftp://modis.cr.chiba-u.ac.jp/ichii/SEND_NEW/H8AHI_SR/
+
 Condition:
-This is a preliminary dataset and will be updated based on the process of revision of below two papers. At this stage, please contact to Kazuhito Ichii (ichii@chiba-u.jp) for more information (e.g. format etc.).
+This is a preliminary dataset and will be updated based on the process of revision of below two papers. 
+At this stage, please contact to Kazuhito Ichii (ichii@chiba-u.jp) for more information (e.g. format etc.).
 
 ## **_Comment in detail writen in main.py and SR_FD_1km.ipynb_**
 ## Data required
